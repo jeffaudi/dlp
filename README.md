@@ -1,2 +1,2 @@
-# dlres
-Deep Learning Resources and Examples
+# dlp
+Deep Learning Projects
